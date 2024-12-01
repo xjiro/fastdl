@@ -1,6 +1,6 @@
 # Github Pages for GoldSrc FastDL
 
-This is an forkable fastdl directory for goldsrc games that will will use github pages for hosting.
+This is an forkable fastdl directory for goldsrc games that will use github pages for hosting.
 
 
 ## Usage
