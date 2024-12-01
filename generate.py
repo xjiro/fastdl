@@ -9,7 +9,7 @@ def get_files():
 files = get_files()
 files = [file.replace("\\", "/")[2:] for file in files]
 files = [file for file in files if not file.startswith(".git")]
-ignore = ["generate.py", "index.html", "template.html"]
+ignore = ["generate.py", "index.html", "template.html", "README.md"]
 files = [file for file in files if file not in ignore]
 
 files.sort()
